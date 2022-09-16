@@ -2,7 +2,7 @@
 
 #Lab works:
 
-1. [Суперкомпьютеры] (https://drive.google.com/drive/folders/1P9LfhU6jhDDTi_Sotm397ym7NAfjh1Vb?usp=sharing)
+1. [Суперкомпьютеры](https://drive.google.com/drive/folders/1P9LfhU6jhDDTi_Sotm397ym7NAfjh1Vb?usp=sharing)
 2. -
 3. [Типы данных](https://github.com/CristCas/Labs/blob/c999659998806794b89a6207867be2902ad07be6/Lab3.ipynb)
 4. [Поток команд - управляющие структуры]()
